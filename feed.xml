@@ -42,7 +42,7 @@
         <categoryId>704</categoryId>
         <price>65000</price>
         <currencyId>RUR</currencyId>
-        <param name="Продолжительность" unit="месяц">1.5</param>
+        <param name="Продолжительность" unit="день">45</param>
         <param name="Ближайшая дата">2026-07-20</param>
         <param name="Формат обучения">С преподавателем</param>
         <param name="Часы в неделю">4</param>
